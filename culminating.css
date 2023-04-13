@@ -99,3 +99,8 @@ figure {
     margin:auto;
 }
 
+iframe {
+    display:block;
+    margin: 0 auto;
+}
+
